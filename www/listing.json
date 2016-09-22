@@ -1,0 +1,516 @@
+{
+
+    "status": "ok",
+    "count": 9,
+    "count_total": 9,
+    "pages": 1,
+    "posts": [
+        {
+            "id": 122,
+            "type": "post",
+            "slug": "abondondoned_vehicle-20-06-2014-094241",
+            "url": "http://localhost/gov311/abondondoned_vehicle-20-06-2014-094241/",
+            "status": "publish",
+            "title": "abondondoned_vehicle 20-06-2014 09:42:41",
+            "title_plain": "abondondoned_vehicle 20-06-2014 09:42:41",
+            "content": "<p>Please check the Abondondoned vehicle there.</p>\n",
+            "excerpt": "<p>Please check the Abondondoned vehicle there.</p>\n",
+            "date": "2014-06-20 09:42:41",
+            "modified": "2014-06-23 11:02:15",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 1,
+                "slug": "admin",
+                "name": "admin",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "admin",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Dewas"
+                ],
+                "lat": [
+                    "22.9667"
+                ],
+                "long": [
+                    "76.06669999999997"
+                ],
+                "issue_type": [
+                    "abondondoned_vehicle"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/streetlight.jpg"
+                ],
+                "status": [
+                    "inprogress"
+                ]
+            }
+        },
+        {
+            "id": 121,
+            "type": "post",
+            "slug": "drainage_issue-20-06-2014-094147",
+            "url": "http://localhost/gov311/drainage_issue-20-06-2014-094147/",
+            "status": "publish",
+            "title": "drainage_issue 20-06-2014 09:41:47",
+            "title_plain": "drainage_issue 20-06-2014 09:41:47",
+            "content": "<p>Please check the drainage problem there.</p>\n",
+            "excerpt": "<p>Please check the drainage problem there.</p>\n",
+            "date": "2014-06-20 09:41:47",
+            "modified": "2014-06-23 05:59:34",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 1,
+                "slug": "admin",
+                "name": "admin",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "admin",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Ujjain, Madhya Pradesh"
+                ],
+                "lat": [
+                    "23.1793013"
+                ],
+                "long": [
+                    "75.78490970000007"
+                ],
+                "issue_type": [
+                    "drainage_issue"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/green-grass.jpg"
+                ],
+                "status": [
+                    "recieved"
+                ]
+            }
+        },
+        {
+            "id": 120,
+            "type": "post",
+            "slug": "vandalism-20-06-2014-094045",
+            "url": "http://localhost/gov311/vandalism-20-06-2014-094045/",
+            "status": "publish",
+            "title": "vandalism 20-06-2014 09:40:45",
+            "title_plain": "vandalism 20-06-2014 09:40:45",
+            "content": "<p>Please check the Vandalism there.</p>\n",
+            "excerpt": "<p>Please check the Vandalism there.</p>\n",
+            "date": "2014-06-20 09:40:45",
+            "modified": "2014-06-20 09:40:45",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Bhuj Gujrat"
+                ],
+                "lat": [
+                    "23.2419997"
+                ],
+                "long": [
+                    "69.66693239999995"
+                ],
+                "issue_type": [
+                    "vandalism"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/green-grass.jpg"
+                ]
+            }
+        },
+        {
+            "id": 119,
+            "type": "post",
+            "slug": "water_line-20-06-2014-094005",
+            "url": "http://localhost/gov311/water_line-20-06-2014-094005/",
+            "status": "publish",
+            "title": "water_line 20-06-2014 09:40:05",
+            "title_plain": "water_line 20-06-2014 09:40:05",
+            "content": "<p>Please amend the water line there.</p>\n",
+            "excerpt": "<p>Please amend the water line there.</p>\n",
+            "date": "2014-06-20 09:40:05",
+            "modified": "2014-06-20 09:40:05",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Maninagar"
+                ],
+                "lat": [
+                    "22.9953645"
+                ],
+                "long": [
+                    "72.60432119999996"
+                ],
+                "issue_type": [
+                    "water_line"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/streetlight.jpg"
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "type": "post",
+            "slug": "street_light-20-06-2014-093913",
+            "url": "http://localhost/gov311/street_light-20-06-2014-093913/",
+            "status": "publish",
+            "title": "street_light 20-06-2014 09:39:13",
+            "title_plain": "street_light 20-06-2014 09:39:13",
+            "content": "<p>Please amend the lights there.</p>\n",
+            "excerpt": "<p>Please amend the lights there.</p>\n",
+            "date": "2014-06-20 09:39:13",
+            "modified": "2014-06-20 09:39:13",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Dwarka Gujrat"
+                ],
+                "lat": [
+                    "22.2441975"
+                ],
+                "long": [
+                    "68.96845619999999"
+                ],
+                "issue_type": [
+                    "street_light"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/streetlight.jpg"
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "type": "post",
+            "slug": "tall_grass_weeds-20-06-2014-093735",
+            "url": "http://localhost/gov311/tall_grass_weeds-20-06-2014-093735/",
+            "status": "publish",
+            "title": "tall_grass_weeds 20-06-2014 09:37:35",
+            "title_plain": "tall_grass_weeds 20-06-2014 09:37:35",
+            "content": "<p>Please cut down the tall grass there</p>\n",
+            "excerpt": "<p>Please cut down the tall grass there</p>\n",
+            "date": "2014-06-20 09:37:35",
+            "modified": "2014-06-20 09:37:35",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Somnath Ahmedabad"
+                ],
+                "lat": [
+                    "23.0498876"
+                ],
+                "long": [
+                    "72.56706600000007"
+                ],
+                "issue_type": [
+                    "tall_grass_weeds"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/green-grass.jpg"
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "type": "post",
+            "slug": "street_damage-18-06-2014-070838",
+            "url": "http://localhost/gov311/street_damage-18-06-2014-070838/",
+            "status": "publish",
+            "title": "street_damage 18-06-2014 07:08:38",
+            "title_plain": "street_damage 18-06-2014 07:08:38",
+            "content": "",
+            "excerpt": "",
+            "date": "2014-06-18 07:08:38",
+            "modified": "2014-06-18 07:08:38",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    ""
+                ],
+                "lat": [
+                    ""
+                ],
+                "long": [
+                    ""
+                ],
+                "issue_type": [
+                    "street_damage"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/"
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "type": "post",
+            "slug": "water_line-18-06-2014-065322",
+            "url": "http://localhost/gov311/water_line-18-06-2014-065322/",
+            "status": "publish",
+            "title": "water_line 18-06-2014 06:53:22",
+            "title_plain": "water_line 18-06-2014 06:53:22",
+            "content": "<p>Indore madhya pradesh street problem</p>\n",
+            "excerpt": "<p>Indore madhya pradesh street problem</p>\n",
+            "date": "2014-06-18 06:53:22",
+            "modified": "2014-06-18 06:53:22",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    "Indore , Madhya Pradesh"
+                ],
+                "lat": [
+                    "22.7195687"
+                ],
+                "long": [
+                    "75.85772580000003"
+                ],
+                "issue_type": [
+                    "water_line"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/street_lamp.jpg"
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "type": "post",
+            "slug": "power_line-17-06-2014-054106",
+            "url": "http://localhost/gov311/power_line-17-06-2014-054106/",
+            "status": "publish",
+            "title": "power_line 17-06-2014 05:41:06",
+            "title_plain": "power_line 17-06-2014 05:41:06",
+            "content": "<p>Power line off due to heavy storm.</p>\n",
+            "excerpt": "<p>Power line off due to heavy storm.</p>\n",
+            "date": "2014-06-17 05:41:06",
+            "modified": "2014-06-17 05:41:06",
+            "categories": [
+                {
+                    "id": 2,
+                    "slug": "gov-311",
+                    "title": "Gov 311",
+                    "description": "Gov 311 category for adding reports.",
+                    "parent": 0,
+                    "post_count": 9
+                }
+            ],
+            "tags": [ ],
+            "author": {
+                "id": 0,
+                "slug": "",
+                "name": "",
+                "first_name": "",
+                "last_name": "",
+                "nickname": "",
+                "url": "",
+                "description": ""
+            },
+            "comments": [ ],
+            "attachments": [ ],
+            "comment_count": 0,
+            "comment_status": "open",
+            "custom_fields": {
+                "location": [
+                    ""
+                ],
+                "lat": [
+                    "23.0394444"
+                ],
+                "long": [
+                    "72.5125"
+                ],
+                "issue_type": [
+                    "power_line"
+                ],
+                "visual_evidence_picture": [
+                    "http://localhost/gov311/wp-content/uploads/2014/06/street_lamp.jpg"
+                ]
+            }
+        }
+    ],
+    "query": {
+        "ignore_sticky_posts": true,
+        "count": "10",
+        "status": "published"
+    }
+
+}

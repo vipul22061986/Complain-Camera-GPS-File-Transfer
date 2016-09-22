@@ -1,0 +1,65 @@
+{
+
+    "status": "ok",
+    "post": {
+        "id": 122,
+        "type": "post",
+        "slug": "abondondoned_vehicle-20-06-2014-094241",
+        "url": "http://localhost/gov311/abondondoned_vehicle-20-06-2014-094241/",
+        "status": "publish",
+        "title": "abondondoned_vehicle 20-06-2014 09:42:41",
+        "title_plain": "abondondoned_vehicle 20-06-2014 09:42:41",
+        "content": "<p>Please check the Abondondoned vehicle there.</p>\n",
+        "excerpt": "<p>Please check the Abondondoned vehicle there.</p>\n",
+        "date": "1-07-2014 09:42:41",
+        "modified": "2014-06-23 11:02:15",
+        "categories": [
+            {
+                "id": 2,
+                "slug": "gov-311",
+                "title": "Gov 311",
+                "description": "Gov 311 category for adding reports.",
+                "parent": 0,
+                "post_count": 11
+            }
+        ],
+        "tags": [ ],
+        "author": {
+            "id": 1,
+            "slug": "admin",
+            "name": "admin",
+            "first_name": "",
+            "last_name": "",
+            "nickname": "admin",
+            "url": "",
+            "description": ""
+        },
+        "comments": [ ],
+        "attachments": [ ],
+        "comment_count": 0,
+        "comment_status": "open",
+        "custom_fields": {
+            "location": [
+                "Dewas"
+            ],
+            "lat": [
+                "22.9667"
+            ],
+            "long": [
+                "76.06669999999997"
+            ],
+            "issue_type": [
+                "abondondoned_vehicle"
+            ],
+            "visual_evidence_picture": [
+                "http://localhost/gov311/wp-content/uploads/2014/06/streetlight.jpg"
+            ],
+            "status": [
+                "inprogress"
+            ]
+        }
+    },
+    "previous_url": "http://localhost/gov311/drainage_issue-20-06-2014-094147/",
+    "next_url": "http://localhost/gov311/margeshpatel/"
+
+}
